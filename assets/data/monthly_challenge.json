@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Carbon-free Transportation Month",
+    "descrtipion": "Go Car-free! Use public transportation, walking, or biking",
+    "credit": 10
+  },
+  {
+    "title": "Environmentally-friendly Diet Month",
+    "description": "Eat meatless meals",
+    "credit": 10
+  },
+  {
+    "title": "Zero-waste Challenge Month",
+    "description": "Produce as little waste as possible by practicing the 5 R's: Refuse, Reduce, Reuse, Recycle, and Rot!",
+    "credit": 10
+  },
+  {
+    "title": "Planting Tree Month",
+    "description": "Trees are best to be planted in the Spring/Fall",
+    "credit": 10
+  },
+  {
+    "title": "Energy Conservation Month",
+    "description": "Turn off lights, use energy-efficient bulbs, unplug unused appliances",
+    "credit": 10
+  }
+]

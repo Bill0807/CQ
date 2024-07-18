@@ -1,0 +1,46 @@
+{
+  "emissions": [
+    {
+      "category": "transportation",
+      "type": "subway",
+      "value": 0.15,
+      "timestamp": "2023-10-21T10:15:00"
+    },
+    {
+      "category": "food",
+      "type": "heavy_meat",
+      "value": 10.0,
+      "timestamp": "2023-10-21T13:15:00"
+    },
+    {
+      "category": "food",
+      "type": "fish",
+      "value": 0.8,
+      "timestamp": "2023-10-21T18:30:00"
+    },
+    {
+      "category": "waste",
+      "type": "non_recyclable",
+      "value": 0.7,
+      "timestamp": "2023-10-21T19:20:00"
+    },
+    {
+      "category": "electricity",
+      "type": "games",
+      "value": 0.54,
+      "timestamp": "2023-10-21T21:00:00"
+    }
+  ],
+  "offset": [
+    {
+      "category": "reusable_bottles",
+      "value": 4,
+      "timestamp": "2023-10-21T10:25:00"
+    },
+    {
+      "category": "eco_bag",
+      "value": 5,
+      "timestamp": "2023-10-21T10:30:00"
+    }
+  ]
+}

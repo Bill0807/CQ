@@ -1,0 +1,30 @@
+{
+  "verified_users": [
+    {
+      "username": "Jane",
+      "date_joined": "2023-10-10T19:14:01"
+    },
+    {
+      "username": "Jordan",
+      "date_joined": "2023-10-19T18:26:01"
+    },
+    {
+      "username": "Bill",
+      "date_joined": "2023-10-21T13:00:01"
+    }
+  ],
+  "unverified_users": [
+    {
+      "username": "Paul",
+      "date_joined": "2023-10-19T19:14:01"
+    },
+    {
+      "username": "Miranda",
+      "date_joined": "2023-10-20T19:14:01"
+    },
+    {
+      "username": "Stewie",
+      "date_joined": "2023-10-22T19:14:01"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "ticket-001": {
+    "uid": "6xQ0qnIEGKMeNliDotWwxyB9l5v2",
+    "username": "Jane",
+    "lenderUid": null,
+    "requestCreated": 1701767151090,
+    "requestAmount": 1.0
+  },
+  "ticket-002": {
+    "uid": "GRcLwVsplEcsELkcBS78CaTH7nn2",
+    "username": "Jordan",
+    "lenderUid": null,
+    "requestCreated": 1701767284184,
+    "requestAmount": 0.5
+  },
+  "ticket-003": {
+    "uid": "",
+    "username": "Bill",
+    "lenderUid": null,
+    "requestCreated": 1701767257323,
+    "requestAmount": 4.0
+  },
+  "ticket-004": {
+    "uid": "",
+    "username": "Goblin",
+    "lenderUid": null,
+    "requestCreated": 1701767109876,
+    "requestAmount": 2.0
+  }
+}

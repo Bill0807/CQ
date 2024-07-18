@@ -1,0 +1,42 @@
+{
+  "recycling": {
+    "title": "Recycling",
+    "description": "Properly recycle your waste materials, such as paper, cardboard, glass, and plastic.",
+    "credit": 2
+  },
+  "green_gifting": {
+    "title": "Green gifting",
+    "description": "Turn every occasion into an opportunity to contribute to a greener planet (e.g. eco-friendly beauty products, handmade or locally crafted goods, books made from recycled materials)",
+    "credit": 3
+  },
+  "art_project": {
+    "title": "Make eco-friendly art",
+    "description": "Create art from waste materials.",
+    "credit": 2
+  },
+  "energy_bulbs": {
+    "title": "Switch to energy-efficient bulbs",
+    "description": "Replace your room/dorm room bulbs with energy-efficient options (ie. LED, CFL bulbs).",
+    "credit": 4
+  },
+  "reusable_bottles": {
+    "title": "Use reusable water bottle",
+    "description": "Switch to reusable water bottles instead of single-use plastic bottles.",
+    "credit": 4
+  },
+  "clean_neighborhood": {
+    "title": "Clean your neighborhood",
+    "description": "Earn credits by cleaning up and removing litters in your campus or your neighborhood today.",
+    "credit": 10
+  },
+  "eco_bag": {
+    "title": "Use eco bag",
+    "description": "Earn credits for being an eco-conscious shopper. Use eco-friendly bags whenever you shop, reducing plastic waste.",
+    "credit": 5
+  },
+  "plant_tree": {
+    "title": "Plant a tree",
+    "description": "Earn a significant number of credits by planting a tree or participating in tree-planting events.",
+    "credit": 21.8
+  }
+}
